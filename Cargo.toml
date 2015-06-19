@@ -1,0 +1,7 @@
+[package]
+name = "Sierpi"
+version = "0.1.0"
+authors = ["Pablo Orgaz <pabloogc@gmail.com>"]
+[dependencies]
+piston = "0.2.0"
+piston_window = "0.3.0"
